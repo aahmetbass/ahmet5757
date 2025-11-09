@@ -1,7 +1,9 @@
 <h1 align="center">👋 Merhaba, ben Ahmet Baş!</h1>
 <h3 align="center">💻 Full Stack Developer | ⚙️ C# & .NET | 🌐 Web Geliştirici</h3>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
+</p>
 
 ---
 
